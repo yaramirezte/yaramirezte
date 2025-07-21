@@ -2,8 +2,9 @@
 
 🎓 **Systems Engineer** (Application Analyst | CRM | ERP | Systems Administration)
 
-I am a Systems Engineer with over five years of experience in IT administration and support.  
-I'm always open to learning and creating new things—both in life and in the workplace.  
+I am a Systems Engineer with over five years of experience in IT administration and support.
+Passionate about Computer Science and I'm always open to learning and creating new things—both 
+in life and in the workplace.  
 I work well both independently and as part of a team, always striving to meet deadlines.
 
 ---
