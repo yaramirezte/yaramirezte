@@ -1,16 +1,28 @@
-## Hi! it is Yeni Andrea Ramirez👋
-### Systems Engineering (Application Analyst, CRM, ERP, systems administration)
+## 👋 Hi! I'm Yeni Andrea Ramírez  
 
-I am a System Engineer with more than five years of experience in administration and IT support. I am always open to learn and create new things, in my life and in the work place. I can work really well in a team or by myself, always striving to meet my deadlines. 
+🎓 **Systems Engineer** (Application Analyst | CRM | ERP | Systems Administration)
 
-## Technologies and Tools
-- ERPs, Microsoft Dynamics CRM and HubSpot CRM. 
-- Power BI
-- Excel for Data Analysis
-- Pyton
-- SQL
+I am a Systems Engineer with over five years of experience in IT administration and support.  
+I'm always open to learning and creating new things—both in life and in the workplace.  
+I work well both independently and as part of a team, always striving to meet deadlines.
 
-## Proyectos Destacados
+---
 
-## ¿Cómo contactarme?
+### 🛠️ Technologies & Tools
+
+- ERPs, Microsoft Dynamics CRM, and HubSpot CRM  
+- Power BI  
+- Excel for Data Analysis  
+- Python  
+- SQL  
+
+---
+
+### 🚀 Featured Projects
+
+
+---
+
+### 📬 How to Reach Me
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/yeni-andrea-ramirez-tellez-crm)
