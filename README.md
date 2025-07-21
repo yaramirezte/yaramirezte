@@ -4,11 +4,11 @@
 I am a System Engineer with more than five years of experience in administration and IT support. I am always open to learn and create new things, in my life and in the work place. I can work really well in a team or by myself, always striving to meet my deadlines. 
 
 ## Technologies and Tools
-ERPs, Microsoft Dynamics CRM and HubSpot CRM
-Power BI
-Excel for Data Analysis
-Python
-SQL
+# ERPs, Microsoft Dynamics CRM and HubSpot CRM. 
+# Power BI
+# Excel for Data Analysis
+# Pyton
+# SQL
 
 ## Proyectos Destacados
 
